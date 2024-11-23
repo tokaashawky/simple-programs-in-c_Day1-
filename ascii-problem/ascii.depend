@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1731574240 source:f:\iti-cloudplatform\intro_programming\labs\first-lab\ascii-problem\ascii\main.c
+	<stdio.h>
+	<stdlib.h>
+
